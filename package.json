@@ -1,0 +1,21 @@
+{
+  "name": "fl0w3rb3d-client",
+  "version": "0.0.1",
+  "description": "Lets you interface with node-steam client",
+  "author": "Adam Schodde",
+  "maintainers": {
+    "name": "Adam Schodde",
+    "email": "sparky1010+github@gmail.com",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brutalhonesty/fl0w3rb3d-client.git"
+  },
+  "dependencies": {
+    "steam": "*",
+    "https://github.com/seishun/node-tf2.git": "*"
+  },
+  "engines": {
+    "node": "0.8.x"
+  }
+}
