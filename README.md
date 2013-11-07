@@ -12,6 +12,7 @@ Adam Schodde
 
 ```bash
 cd fl0w3rb3d-client/
+mv settings.js.template settings.js && vim settings.js
 node main.js
 ```
 
